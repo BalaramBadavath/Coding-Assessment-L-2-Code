@@ -28,7 +28,7 @@
 # Installation
 
 **Clone the repository:**
-- git clone https://github.com/your-username/e-commerce-store.git
+- git clone git@github.com:BalaramBadavath/Coding-Assessment-L-2-Code.git
 
 **Navigate to the project directory:**
 - cd e-commerce-store
